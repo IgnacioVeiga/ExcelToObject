@@ -1,0 +1,11 @@
+C:\Users\Usuario\Documents\Programación\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\Usuario\Documents\Programación\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\Usuario\Documents\Programación\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\Usuario\Documents\Programación\Excel\Excel\bin\Debug\ExcelDataReader.dll
+C:\Users\Usuario\Documents\Programación\Excel\Excel\bin\Debug\ExcelMapper.dll
+C:\Users\Usuario\Documents\Programación\Excel\Excel\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Documents\Programación\Excel\Excel\bin\Debug\ExcelDataReader.xml
+C:\Users\Usuario\Documents\Programación\Excel\Excel\obj\Debug\Excel.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Programación\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programación\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\Usuario\Documents\Programación\Excel\Excel\obj\Debug\Excel.pdb

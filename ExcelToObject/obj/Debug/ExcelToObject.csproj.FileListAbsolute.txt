@@ -1,0 +1,12 @@
+D:\Tools\Dev\.Curso de programación\Excel\Excel\bin\Debug\Excel.exe.config
+D:\Tools\Dev\.Curso de programación\Excel\Excel\bin\Debug\Excel.exe
+D:\Tools\Dev\.Curso de programación\Excel\Excel\bin\Debug\Excel.pdb
+D:\Tools\Dev\.Curso de programación\Excel\Excel\bin\Debug\ExcelDataReader.dll
+D:\Tools\Dev\.Curso de programación\Excel\Excel\bin\Debug\ExcelMapper.dll
+D:\Tools\Dev\.Curso de programación\Excel\Excel\bin\Debug\System.ValueTuple.dll
+D:\Tools\Dev\.Curso de programación\Excel\Excel\bin\Debug\ExcelDataReader.xml
+D:\Tools\Dev\.Curso de programación\Excel\Excel\obj\Debug\ExcelToObject.csprojAssemblyReference.cache
+D:\Tools\Dev\.Curso de programación\Excel\Excel\obj\Debug\ExcelToObject.csproj.CoreCompileInputs.cache
+D:\Tools\Dev\.Curso de programación\Excel\Excel\obj\Debug\ExcelToObject.csproj.CopyComplete
+D:\Tools\Dev\.Curso de programación\Excel\Excel\obj\Debug\Excel.exe
+D:\Tools\Dev\.Curso de programación\Excel\Excel\obj\Debug\Excel.pdb
